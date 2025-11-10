@@ -1,4 +1,5 @@
 ## Hello there, my name is Valeria Rojas 👋
+<img width="1024" height="442" alt="Gemini_Generated_Image_jcj0cxjcj0cxjcj0" src="https://github.com/user-attachments/assets/f9eeb789-a7db-4254-b731-92d01672d604" />
 
 <!--
 **valerialhoman/valerialhoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
